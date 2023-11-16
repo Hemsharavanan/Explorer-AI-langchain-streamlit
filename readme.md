@@ -14,10 +14,19 @@ Explorer AI functions similarly to ChatGPT but focuses on the travel domain. Wit
 - **Conversational Interface**: Interact with Explorer AI using a user-friendly chat interface.
 
 ![Explorer AI](./application-screenshots/ExplorerAI-screenshot1.png)
+_Screenshot 1_
+
 ![Explorer AI](./application-screenshots/ExplorerAI-screenshot2.png)
+_Screenshot 2_
+
 ![Explorer AI](./application-screenshots/ExplorerAI-screenshot3.png)
+_Screenshot 3_
+
 ![Explorer AI](./application-screenshots/ExplorerAI-screenshot4.png)
+_Screenshot 4_
+
 ![Explorer AI](./application-screenshots/ExplorerAI-screenshot5.png)
+_Screenshot 5_
 
 ## Requirements
 
@@ -29,14 +38,7 @@ Explorer AI functions similarly to ChatGPT but focuses on the travel domain. Wit
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/Explorer-AI.git
-   ```
-
 2. Install the necessary dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
